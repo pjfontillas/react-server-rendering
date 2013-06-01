@@ -26,7 +26,7 @@ We don't use any sort of fake DOM (jsdom, phantom etc) -- we've just designed
 React from the ground up to not depend on the browser. So it's fast and
 memory efficient.
 
-We use the [React tutorial application](/petehunt/react-tutorial) almost
+We use the [React tutorial application](http://github.com/petehunt/react-tutorial) almost
 completely unmodified.
 
 ## Why do I want this?
